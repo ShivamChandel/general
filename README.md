@@ -1,2 +1,3 @@
-# general
-This will host all the sample/demo/practice apps
+# python-docker
+
+A simple Python app for [Docker's Python Language Guide](https://docs.docker.com/language/python).
